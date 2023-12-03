@@ -29,11 +29,12 @@
 
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezzat Awad&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
 <br>
-<br>
-<a href="https://komarev.com/ghpvc/?username=Ezzat Awad&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Ezzat Awad&style=for-the-badge">
-</a>
+
