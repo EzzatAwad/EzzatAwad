@@ -33,6 +33,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&exclude=html,css,javascript,java,php&langs_count=1&hide=html,css,javascript,java,php)
+
+
+
+
+
+
+
 
 <br>
 
